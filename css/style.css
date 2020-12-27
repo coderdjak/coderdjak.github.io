@@ -58,6 +58,8 @@ header {
   margin-top: 20px; }
 
 .header-button {
+  text-decoration: none;
+  display: inline-block;
   border-radius: 50px;
   background-color: #ffffff;
   color: #072b6f;
